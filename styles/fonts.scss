@@ -21,3 +21,20 @@
   font-weight: 400;
   src: url("/fonts/lobster-regular.woff2") format("woff2");
 }
+
+// font sizes
+$size-3: 1.25rem; // normal
+
+//bigger
+$size-4: $size-3 + 0.25rem;
+$size-5: $size-4 + 0.25rem;
+$size-6: $size-5 + 0.25rem;
+$size-7: $size-6 + 0.25rem;
+$size-8: $size-7 + 0.5rem;
+$size-9: $size-8 + 0.5rem;
+$size-10: $size-9 + 1rem;
+
+//smaller
+$size-2: $size-3 - 0.25rem;
+$size-1: $size-2 - 0.25rem;
+$size-0: $size-1 - 0.25rem;

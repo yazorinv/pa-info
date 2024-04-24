@@ -6,6 +6,7 @@
   <div>
     <h1>Hello</h1>
     <MyButtonTheme/>
+    <MyLogo/>
   </div>
 </template>
 
