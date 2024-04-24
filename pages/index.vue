@@ -4,7 +4,7 @@
 
 <template>
   <div>
-    <h1>Hello</h1>
+    <MyHeader>Hello Hello Heloo Hello</MyHeader>
     <MyButtonTheme/>
     <MyLogo/>
   </div>
