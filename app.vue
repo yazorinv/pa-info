@@ -1,5 +1,7 @@
 <template>
-  <div>
-    <NuxtWelcome />
-  </div>
+  <NuxtPage/>
 </template>
+
+<style lang="scss">
+@import "/styles/base-colors.scss";
+</style>
