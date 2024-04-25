@@ -14,7 +14,7 @@ body {
 }
 
 .dark-mode body {
-  background: $crust url("/background-dark.png") no-repeat;
+  background: $crust url("/images/background-dark.webp") no-repeat;
 }
 
 

@@ -19,7 +19,7 @@
         <li>Пусто</li>
       </ul>
       <p>Точно не реклама</p>
-      <img src="/images/tech-support.jpg" width="50%" alt="tech-support"/>
+      <img src="/images/tech-support.webp" width="50%" alt="tech-support"/>
     </template>
   </BaseApp1Right>
 </template>

@@ -2,11 +2,11 @@
 const props = defineProps({
   logo_light: {
     type: String,
-    default: '/logo-light.png'
+    default: '/images/logo-light.webp'
   },
   logo_dark: {
     type: String,
-    default: '/logo-dark.png'
+    default: '/images/logo-dark.webp'
   },
   height: {
     type: String,
