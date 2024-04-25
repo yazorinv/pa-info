@@ -24,10 +24,10 @@
       <ul>
         <li><a href="https://nuxt.com">Nuxt</a></li>
         <li><a href="https://github.com">GitHub</a></li>
-        <li><a href="https://vuejs.org">Vue</a></li>
+        <li><a href="https://vuejs.org">Vue JS</a></li>
       </ul>
       <h2>Мой GitHub</h2>
-      <a href="https://github.com">https://github.com</a>
+      <a href="https://github.com/yazorinv">GitHub</a>
     </address>
     <address>
       <h1>Навигация</h1>
