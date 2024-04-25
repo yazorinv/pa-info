@@ -51,7 +51,7 @@
           <NuxtLink to="/help">Помощь</NuxtLink>
         </li>
         <li>
-          <NuxtLink to="/help">Техподдержка</NuxtLink>
+          <NuxtLink to="/tech-support">Техподдержка</NuxtLink>
         </li>
       </ul>
     </address>
