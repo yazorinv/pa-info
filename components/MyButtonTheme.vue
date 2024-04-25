@@ -3,7 +3,7 @@ const colorMode = useColorMode()
 
 
 function toggleColorMode() {
-  colorMode.value = colorMode.value === 'light' ? 'dark' : 'light'
+  colorMode.preference = colorMode.value === 'light' ? 'dark' : 'light'
 }
 </script>
 
@@ -16,6 +16,8 @@ function toggleColorMode() {
 
 
 <style scoped lang="scss">
+@use "sass:math";
+
 $light: #e6e9ef;
 $dark: #181825;
 $my-size: 40px;
@@ -45,14 +47,14 @@ button {
 .in-button {
   width: $my-size;
   height: $my-size;
-  border-radius: $my-size / 2;
+  border-radius: math.div($my-size, 2);
   transition: 0.3s;
 }
 
 .light-mode .in-button {
-  top: $my-size / 2;
-  left: $my-size / 2;
-  box-shadow: inset ($my-size / 2) (-($my-size / 8)) 0px 0px $light;
+  top: math.div($my-size, 2);
+  left: math.div($my-size, 2);
+  box-shadow: inset math.div($my-size, 4) math.div(-$my-size, 8) 0 0 $light;
   background-color: $dark;
 }
 

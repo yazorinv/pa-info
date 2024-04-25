@@ -1,22 +1,18 @@
 <script setup lang="ts">
+import BaseApp0 from "~/layouts/BaseApp0.vue";
 </script>
 
 
 <template>
-  <div>
-    <MyHeader>Hello Hello Heloo Hello</MyHeader>
-    <MyMenu/>
-    <MyButtonTheme/>
-    <MyLogo/>
-    <MyFooter/>
-  </div>
+  <BaseApp0>
+    <template v-slot:header>Hello</template>
+    <template v-slot:main>
+      <h1>Всем привет</h1>
+    </template>
+  </BaseApp0>
 </template>
 
 
 <style scoped lang="scss">
-@import "styles/colors";
-
-h1 {
-  color: $text;
-}
+@import "styles/base";
 </style>

@@ -20,8 +20,7 @@ const colorMode = useColorMode()
 
 <template>
   <NuxtLink to="/">
-    <img v-if="colorMode.value === 'dark'" :src="logo_dark" :height="height" alt="logo"/>
-    <img v-else :src="logo_light" :height="height" alt="logo"/>
+    <img :src="colorMode.value === 'light' ? logo_light : logo_dark" :height="height" alt="logo"/>
   </NuxtLink>
 </template>
 
