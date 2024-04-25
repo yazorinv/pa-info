@@ -35,7 +35,7 @@
           <NuxtLink to="/web/vsoh">ВСОШ</NuxtLink>
         </li>
         <li>
-          <NuxtLink to="/web/cats">Коты</NuxtLink>
+          <NuxtLink to="/web/cats">Котики</NuxtLink>
         </li>
         <li>
           <NuxtLink to="/web/progs">Программирование</NuxtLink>
