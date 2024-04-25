@@ -3,18 +3,20 @@
 
 
 <template>
-  <div class="wrap">
-    <MyHeader class="mx">
+  <div>
+    <MyHeader>
       <slot name="header"/>
     </MyHeader>
-    <MyMenu class="mx"/>
-    <main>
-      <slot name="main"/>
-    </main>
-    <aside>
-      <slot name="aside"/>
-    </aside>
-    <MyFooter class="mx"/>
+    <MyMenu/>
+    <div class="wrap">
+      <main>
+        <slot name="main"/>
+      </main>
+      <aside>
+        <slot name="aside"/>
+      </aside>
+    </div>
+    <MyFooter/>
   </div>
 </template>
 
@@ -29,9 +31,11 @@
   justify-content: space-between;
   align-items: stretch;
   align-content: flex-start;
+}
 
-  .mx {
-    width: 100%;
+@media all and (min-width: 600px) {
+  .wrap {
+    flex-wrap: nowrap;
   }
 }
 </style>

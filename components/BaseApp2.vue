@@ -3,21 +3,23 @@
 
 
 <template>
-  <div class="wrap">
-    <MyHeader class="mx">
+  <div>
+    <MyHeader>
       <slot name="header"/>
     </MyHeader>
-    <MyMenu class="mx"/>
-    <aside>
-      <slot name="aside1"/>
-    </aside>
-    <main>
-      <slot name="main"/>
-    </main>
-    <aside>
-      <slot name="aside2"/>
-    </aside>
-    <MyFooter class="mx"/>
+    <MyMenu/>
+    <div class="wrap">
+      <aside>
+        <slot name="aside1"/>
+      </aside>
+      <main>
+        <slot name="main"/>
+      </main>
+      <aside>
+        <slot name="aside2"/>
+      </aside>
+    </div>
+    <MyFooter/>
   </div>
 </template>
 
@@ -32,9 +34,11 @@
   justify-content: space-between;
   align-items: stretch;
   align-content: flex-start;
+}
 
-  .mx {
-    width: 100%;
+@media all and (min-width: 800px) {
+  .wrap {
+    flex-wrap: nowrap;
   }
 }
 </style>
