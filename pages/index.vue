@@ -5,6 +5,7 @@
 <template>
   <div>
     <MyHeader>Hello Hello Heloo Hello</MyHeader>
+    <MyMenu/>
     <MyButtonTheme/>
     <MyLogo/>
   </div>
