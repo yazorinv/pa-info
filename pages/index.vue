@@ -8,6 +8,7 @@
     <MyMenu/>
     <MyButtonTheme/>
     <MyLogo/>
+    <MyFooter/>
   </div>
 </template>
 
