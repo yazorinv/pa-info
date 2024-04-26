@@ -13,7 +13,7 @@ useSeoMeta({
     </template>
     <template v-slot:main>
       <h1>Frontend и Backend</h1>
-      <img width="60%" src="https://blog.back4app.com/wp-content/uploads/2019/07/backend-vs-frontend.png"
+      <img width="60%" src="/images/front-vs-back.webp"
            alt="backend vs frontend"/>
       <p>Вы наверняка уже слышали эти модные в сфере программирования слова «фронтенд» и «бэкенд», но что за ними стоит?
         Предлагаем с этим разобраться.</p>
@@ -39,7 +39,7 @@ useSeoMeta({
         Бэкенд — все, что работает на сервере, то есть «не в браузере» или «на компьютере, подсоединенном к сети (обычно
         к Интернету), который отвечает на сообщения от других компьютеров».
       </p>
-      <img width="50%" src="https://domikexpert.ru/wp-content/uploads/2/c/a/2ca38b5f635bdb6eb4262de003115e0d.png"
+      <img width="50%" src="/images/dart.webp"
            alt="dart"/>
       <p>
         Для бэкенда вы можете использовать любые инструменты, доступные на вашем сервере (который, по сути, является

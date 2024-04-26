@@ -18,7 +18,7 @@ useSeoMeta({
         изучающая методы и приёмы создания и развития компьютерных программ.
       </p>
       <img
-          src="https://fikiwiki.com/uploads/posts/2022-02/1644890738_15-fikiwiki-com-p-kartinki-yazikov-programmirovaniya-18.jpg"
+          src="/images/progs.webp"
           width="50%"
           alt="code"/>
       <p>
@@ -46,7 +46,7 @@ useSeoMeta({
       <br/>
       <br/>
       <img
-          src="https://flomaster.top/uploads/posts/2023-01/1673554913_flomaster-club-p-utochka-dlya-vanni-risunok-vkontakte-57.jpg"
+          src="/images/utia.webp"
           width="50%" alt="utochka"/>
     </template>
     <template v-slot:aside>
@@ -67,7 +67,7 @@ useSeoMeta({
         <NuxtLink to="/web/prog/what-lang">Какие ЯП Вы знаете?</NuxtLink>
       </p>
       <img
-          src="https://zifra42.ru/wp-content/uploads/2023/02/%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0-%D1%81-%D0%B4%D0%B5%D0%B2%D1%8F%D1%82%D0%B8%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BD%D0%B8%D0%BA%D0%B0%D0%BC%D0%B8-%D0%A1%D0%9E%D0%A8-%E2%84%9616-%D0%B3.-%D0%9A%D0%B5%D0%BC%D0%B5%D1%80%D0%BE%D0%B2%D0%BE_1-1300x731.jpg"
+          src="/images/laptop.webp"
           width="95%" alt="laptop and programming"/>
     </template>
   </BaseApp1Right>

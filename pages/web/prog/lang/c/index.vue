@@ -10,7 +10,7 @@ useSeoMeta({
   <BaseApp0>
     <template v-slot:header>C</template>
     <template v-slot:main>
-      <img src="https://static.skillshare.com/uploads/video/thumbnails/b9455fc40a4053509ef0a77b8ddb6a51/original"
+      <img src="/images/c-lang.webp"
            alt="c"/>
       <h1>Язык C</h1>
       <p>

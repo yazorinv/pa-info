@@ -14,7 +14,7 @@ useSeoMeta({
 
       <h1>Kotlin</h1>
       <img
-          src="https://kotlinlang.org/docs/images/kotlin-logo.png"
+          src="/images/kotlin.webp"
           alt="kotlin"/>
       <p>
         Kotlin (Ко́тлин) — статически типизированный, объектно-ориентированный язык программирования, работающий поверх
@@ -29,7 +29,7 @@ useSeoMeta({
         использованию; в частности, язык также встраивается Android, что позволяет для существующего Android-приложения
         внедрять новые функции на Kotlin без переписывания приложения целиком.
       </p>
-      <img src="https://www.clipartmax.com/png/middle/238-2381243_safeness-kotlin-android-logo.png" alt="kotlin">
+      <img src="/images/kotlin-android.webp" alt="kotlin">
       <h2>История</h2>
       <p>
         Язык разрабатывается с 2010 года под руководством Андрея Бреслава, представлен общественности в июле

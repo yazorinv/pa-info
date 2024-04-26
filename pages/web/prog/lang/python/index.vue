@@ -11,7 +11,7 @@ useSeoMeta({
       Python
     </template>
     <template v-slot:main>
-      <img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" alt="python"/>
+      <img src="/images/python.webp" alt="python"/>
       <h1>Python</h1>
       <p>Python (в русском языке встречаются названия пито́н или па́йтон) — высокоуровневый
         язык программирования общего назначения с динамической строгой типизацией и автоматическим управлением

@@ -12,7 +12,7 @@ useSeoMeta({
     </template>
     <template v-slot:main>
       <img
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png"
+          src="/images/rust.webp"
           alt="rust"/>
       <h1>Rust</h1>
       <p>
@@ -33,7 +33,7 @@ useSeoMeta({
         «абстракций с нулевой стоимостью».
       </p>
       <h2>История</h2>
-      <img src="https://repository-images.githubusercontent.com/456021983/f167e836-e384-4022-9f05-1133fbd95b15"
+      <img src="/images/rust1.webp"
            alt="rust"/>
       <p>
         Работа над языком была начата сотрудником Mozilla Грэйдоном Хором в 2006 году. Автор дал проекту название Rust,

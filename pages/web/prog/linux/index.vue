@@ -11,7 +11,7 @@ useSeoMeta({
       Linux
     </template>
     <template v-slot:main>
-      <img class="ff" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png"
+      <img class="ff" src="/images/tux.webp"
            alt="linux"/>
       <h1>Что такое Linux?</h1>
       <p>
@@ -29,7 +29,7 @@ useSeoMeta({
         мобильных устройств, некоторое распространение системы получили и для персональных
         компьютеров.
       </p>
-      <img width="30%" src="https://www.tapeciarnia.pl/tapety/normalne/76351_linux_kontra_windows.jpg"
+      <img width="30%" src="/images/linux-vs-win.webp"
            alt="linux vs windows"/>
       <p>
         За счёт использования свободного программного обеспечения и привлечения волонтёров каждая из систем Linux
@@ -39,8 +39,8 @@ useSeoMeta({
         более $1,4 млрд, притом только за 2008 год она увеличилась на $315 млн, совокупный труд оценён в размере 73 тыс.
         человеко-лет.
       </p>
-      <img width="40%" src="https://www.scaler.com/topics/images/daemon.webp" alt="daemon"/>
-      <img width="40%" src="https://i.playground.ru/p/NZ5jgsu8AaucSUtk8LKmcA.jpeg" alt="daemon"/>
+      <img width="40%" src="/images/daemon.webp" alt="daemon"/>
+      <img width="40%" src="/images/juice.webp" alt="daemon"/>
       <p>
         Семейство систем, включающих в качестве компонентов основные программы проекта GNU, такие как bash, gcc, glibc,
         coreutils и ряд других, иногда идентифицируется как GNU/Linux. Так как традиционно большинство систем было
@@ -51,10 +51,10 @@ useSeoMeta({
         включения в семейство. Однако есть ряд систем на базе ядра Linux, но не имеющих в основе зависимости от программ
         GNU, которые поэтому "GNU/Linux" не называют, в частности, таковы мобильные системы Android и FirefoxOS.
       </p>
-      <img width="30%" src="https://fedoraproject.org/assets/images/atomic-desktops/screenshot-kinoite.jpg"
+      <img width="30%" src="/images/fedora.webp"
            alt="fedora"/>
       <img width="40%"
-           src="https://avatars.mds.yandex.net/i?id=ed37056661b7688d40d3aa8287fe7cd1a20367a6-7985106-images-thumbs&n=13"
+           src="/images/fedora1.webp"
            alt="fedora"/>
       <p>
         Официальным логотипом и талисманом Linux является пингвин Tux, созданный в 1996 году Ларри Юингом. Торговая
@@ -66,10 +66,10 @@ useSeoMeta({
         Существует значительный рынок коммерческой технической поддержки Linux-систем, на котором с долей свыше 70 %
         (2017) доминирует корпорация Red Hat (поглощена IBM в 2019 году).
       </p>
-      <img width="30%" src="https://2compa.ru/wp-content/uploads/2023/11/ubuntu-is-a-operating-system1.jpg"
+      <img width="30%" src="/images/linux1.webp"
            alt="ubuntu"/>
       <img width="40%"
-           src="https://avatars.mds.yandex.net/i?id=68a7cf0f178a475e0b83fd385875cfcdecfe6477-10812270-images-thumbs&n=13"
+           src="/images/linux2.webp"
            alt="ubuntu"/>
       <h2>Ранняя история</h2>
       <p>
@@ -78,9 +78,9 @@ useSeoMeta({
         целями (что исключало любое коммерческое использование), вследствие чего начал работать над своей собственной
         операционной системой, которая в итоге стала Linux.
       </p>
-      <img width="30%" src="https://www.itl.cat/pngfile/big/289-2897100_arch-wallpaper-arch-linux.jpg" alt="arch"/>
-      <img width="30%" src="https://zalinux.ru/wp-content/uploads/2019/07/manjaro.png" alt="manjaro"/>
-      <img width="40%" src="https://robotrackkursk.ru/wp-content/uploads/9/3/6/936ffa514f51a548dfda8ab9ab38277a.png"
+      <img width="30%" src="/images/arch.webp" alt="arch"/>
+      <img width="30%" src="/images/manjaro.webp" alt="manjaro"/>
+      <img width="40%" src="/images/arch2.webp"
            alt="arch"/>
       <p>
         Торвальдс начал разработку ядра Linux на MINIX, и перенёс на него ряд приложений. Позже, когда Linux достиг

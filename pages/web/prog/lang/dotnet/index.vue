@@ -11,7 +11,7 @@ useSeoMeta({
       C Sharp
     </template>
     <template v-slot:main>
-      <img src="https://i.ytimg.com/vi/v36Ghcg6b6w/maxresdefault.jpg" alt="c#"/>
+      <img src="/images/dotnet.webp" alt="c#"/>
       <h1>C#</h1>
       <p><code>C#</code> (произносится си шарп) — объектно-ориентированный язык программирования общего назначения.
         Разработан в

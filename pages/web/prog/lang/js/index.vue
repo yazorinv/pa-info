@@ -11,7 +11,7 @@ useSeoMeta({
       JavaScript
     </template>
     <template v-slot:main>
-      <img src="https://logo-base.com/logo/javascript_js_logo_icon.png" alt="js"/>
+      <img src="/images/js1.webp" alt="js"/>
       <h1>JavaScript</h1>
       <p>
         JavaScript (англ. /ˈdʒɑːvəskrɪpt/; аббр. JS) — мультипарадигменный язык программирования. Поддерживает
@@ -32,7 +32,7 @@ useSeoMeta({
         используемых в веб-разработке.
       </p>
       <img
-          src="https://teachandstudy.ru/media/uploads/course_logo/EzgdmaCQuT84bgDL4fhXZS.jpg"
+          src="/images/js2.webp"
           alt="js"/>
       <p>
         Название «JavaScript» является зарегистрированным товарным знаком корпорации Oracle в США.
@@ -54,7 +54,7 @@ useSeoMeta({
         склеивания» составляющих частей веб-ресурса: изображений, плагинов, Java-апплетов, который был бы удобен для
         веб-дизайнеров и программистов, не обладающих высокой квалификацией.
       </p>
-      <img src="https://u.9111s.ru/uploads/202205/18/6d3b44802cab7967006e385b0f071e30.jpg" alt="js"/>
+      <img src="/images/js3.webp" alt="js"/>
       <p>
         Первоначально по предложению Марка Андрессена язык был назван Mocha, был реализован Бренданом
         Эйхом в течение десяти дней и впервые был включен в пре-альфу версию Netscape 2. Затем он был переименован в
