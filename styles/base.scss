@@ -1,0 +1,83 @@
+@import "boxing";
+@import "colors";
+@import "fonts";
+
+
+main {
+  @extend %boxing;
+  background-color: $mantle;
+  flex-grow: 100;
+  flex-shrink: 100;
+  min-height: 300px;
+}
+
+aside {
+  @extend %boxing;
+  background-color: $surface1;
+  flex-grow: 10;
+  width: 20%; // What???
+}
+
+
+:root {
+  font-family: "Roboto", sans-serif;
+  font-size: $size-2;
+  color: $text;
+}
+
+p, li {
+  font-family: "Roboto", sans-serif;
+  font-size: $size-3;
+  color: $text;
+}
+
+code {
+  font-family: "JetBrains Mono", monospace;
+  font-size: $size-3;
+  color: $teal;
+}
+
+a {
+  font-family: "Roboto", sans-serif;
+  font-style: italic;
+  font-size: $size-3;
+  color: $subtext1;
+  text-decoration: none;
+}
+
+h6 {
+  font-family: "Roboto", sans-serif;
+  font-size: $size-4;
+  color: $text;
+}
+
+h5 {
+  font-family: "Roboto", sans-serif;
+  font-size: $size-5;
+  color: $text;
+}
+
+h4 {
+  font-family: "Roboto", sans-serif;
+  font-size: $size-6;
+  color: $text;
+}
+
+h3 {
+  font-family: "Roboto", sans-serif;
+  font-size: $size-7;
+  color: $text;
+}
+
+h2 {
+  font-family: "Roboto", sans-serif;
+  font-size: $size-8;
+  color: $text;
+}
+
+h1 {
+  font-family: "Roboto", sans-serif;
+  font-size: $size-9;
+  color: $text;
+}
+
