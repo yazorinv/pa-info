@@ -41,10 +41,9 @@
       </p>
       <br/>
       <br/>
-      <h6>Источники</h6>
-      <ul>
-        <li><a href="https://bigenc.ru/c/programmirovanie-880c83">https://bigenc.ru/c/programmirovanie-880c83</a></li>
-      </ul>
+      <img
+          src="https://flomaster.top/uploads/posts/2023-01/1673554913_flomaster-club-p-utochka-dlya-vanni-risunok-vkontakte-57.jpg"
+          width="50%" alt="utochka"/>
     </template>
     <template v-slot:aside>
       <h2>Статьи</h2>
@@ -53,10 +52,7 @@
           <NuxtLink to="/web/prog/lang">Языки программирования</NuxtLink>
         </li>
         <li>
-          <NuxtLink to="/web/prog/backend">Что такое backend?</NuxtLink>
-        </li>
-        <li>
-          <NuxtLink to="/web/prog/frontend">Что такое frontend?</NuxtLink>
+          <NuxtLink to="/web/prog/back-front">Frontend и Backend</NuxtLink>
         </li>
         <li>
           <NuxtLink to="/web/prog/linux">Что такое Linux?</NuxtLink>
