@@ -45,10 +45,13 @@
       <h3>Мой список знакомых ЯП:</h3>
       <ul>
         <li>
-          <NuxtLink to="/web/progs/lang/cpp"><code>C++</code></NuxtLink>
+          <NuxtLink to="/web/prog/lang/cpp"><code>C++</code></NuxtLink>
         </li>
         <li>
-          <NuxtLink to="/web/progs/lang/python"><code>Python</code></NuxtLink>
+          <NuxtLink to="/web/prog/lang/c"><code>C</code></NuxtLink>
+        </li>
+        <li>
+          <NuxtLink to="/web/prog/lang/python"><code>Python</code></NuxtLink>
         </li>
         <li>
           <NuxtLink to="/web/prog/lang/dotnet"><code>C#</code></NuxtLink>
