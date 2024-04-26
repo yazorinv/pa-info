@@ -38,10 +38,7 @@
           <NuxtLink to="/web/cats">Котики</NuxtLink>
         </li>
         <li>
-          <NuxtLink to="/web/progs">Программирование</NuxtLink>
-        </li>
-        <li>
-          <NuxtLink to="/web/ege-info">ЕГЭ по информатике</NuxtLink>
+          <NuxtLink to="/web/prog">Программирование</NuxtLink>
         </li>
       </ul>
 
