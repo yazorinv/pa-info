@@ -63,7 +63,7 @@
           <NuxtLink to="/web/prog/lang/kotlin"><code>Kotlin</code></NuxtLink>
         </li>
         <li>
-          <NuxtLink to="/web/prog/lang/js"><code>Java Script</code></NuxtLink>
+          <NuxtLink to="/web/prog/lang/js"><code>JavaScript</code></NuxtLink>
         </li>
       </ul>
     </template>
