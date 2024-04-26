@@ -1,4 +1,8 @@
 <script setup lang="ts">
+useSeoMeta({
+      title: "Музыка"
+    }
+)
 </script>
 
 

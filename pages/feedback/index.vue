@@ -1,5 +1,8 @@
 <script setup lang="ts">
-
+useSeoMeta({
+      title: "Отзыв"
+    }
+)
 </script>
 
 <template>

@@ -1,5 +1,8 @@
 <script setup lang="ts">
-
+useSeoMeta({
+      title: "Kotlin"
+    }
+)
 </script>
 
 <template>

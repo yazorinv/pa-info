@@ -6,7 +6,7 @@
   <BaseApp1Right>
     <template v-slot:header>Помощь</template>
     <template v-slot:main>
-      <img src="/images/tech-support.webp" alt="tech-support"/>
+      <img src="/images/cats/17.webp" alt="cat-help"/>
       <h1>Помощь</h1>
       <p>Ничем помочь не можем, у нас лапки</p>
     </template>

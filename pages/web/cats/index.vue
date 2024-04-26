@@ -1,4 +1,8 @@
 <script setup lang="ts">
+useSeoMeta({
+      title: "Геракл"
+    }
+)
 </script>
 
 
@@ -13,6 +17,9 @@
       <div class="wrap">
         <img v-for="i in Array.from(Array(34).keys())" :src="`/images/cats/${i.toString()}.webp`" width="30%"
              alt="cat"/>
+        <img src="/images/cats/_0.jpg" width="30%" alt="cat"/>
+        <img src="/images/cats/_1.jpg" width="40%" alt="cat"/>
+        <img src="/images/cats/_3.jpg" width="40%" alt="cat"/>
       </div>
     </template>
   </BaseApp0>

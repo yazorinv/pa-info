@@ -1,4 +1,8 @@
 <script setup lang="ts">
+useSeoMeta({
+      title: "Каталог"
+    }
+)
 </script>
 
 
@@ -44,10 +48,6 @@
 
     </template>
     <template v-slot:aside>
-      <h4>Последние записи</h4>
-      <ul>
-        <li>Пусто</li>
-      </ul>
       <p>Точно не реклама</p>
       <img src="/images/tech-support.webp" width="90%" alt="tech-support"/>
     </template>
