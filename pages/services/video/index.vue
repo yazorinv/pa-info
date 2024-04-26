@@ -11,6 +11,10 @@
         <h5>Море</h5>
         <video width="640" height="360" src="/video/video-sea.mp4" controls/>
       </figure>
+      <figure>
+        <h5>Кот</h5>
+        <video width="640" height="360" src="/video/cat.mp4" controls/>
+      </figure>
     </template>
   </BaseApp0>
 </template>

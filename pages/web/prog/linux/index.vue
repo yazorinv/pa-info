@@ -35,6 +35,8 @@
         более $1,4 млрд, притом только за 2008 год она увеличилась на $315 млн, совокупный труд оценён в размере 73 тыс.
         человеко-лет.
       </p>
+      <img width="40%" src="https://www.scaler.com/topics/images/daemon.webp" alt="daemon"/>
+      <img width="40%" src="https://i.playground.ru/p/NZ5jgsu8AaucSUtk8LKmcA.jpeg" alt="daemon"/>
       <p>
         Семейство систем, включающих в качестве компонентов основные программы проекта GNU, такие как bash, gcc, glibc,
         coreutils и ряд других, иногда идентифицируется как GNU/Linux. Так как традиционно большинство систем было

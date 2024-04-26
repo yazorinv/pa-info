@@ -12,7 +12,6 @@
       <p>Всё разделы можно увидеть во вкладке
         <NuxtLink to="/catalog">Каталог.</NuxtLink>
       </p>
-      <NuxtLink to="/about-me">О себе</NuxtLink>
       <h4>При создании использовалось следующее:</h4>
       <ul>
         <li><a href="https://nuxt.com"><code>Nuxt 3</code></a></li>

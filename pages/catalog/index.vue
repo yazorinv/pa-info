@@ -16,7 +16,7 @@
           <NuxtLink to="/services/video">Видео</NuxtLink>
         </li>
         <li>
-          <NuxtLink to="/services/photo">Фото</NuxtLink>
+          <NuxtLink to="/web/cats">Фото</NuxtLink>
         </li>
         <li>
           <NuxtLink to="/help">Помощь</NuxtLink>
