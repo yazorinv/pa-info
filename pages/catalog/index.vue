@@ -39,7 +39,10 @@ useSeoMeta({
           <NuxtLink to="/web/vsoh">ВСОШ</NuxtLink>
         </li>
         <li>
-          <NuxtLink to="/web/cats">Котики</NuxtLink>
+          <NuxtLink to="/web/cats">Геракл</NuxtLink>
+        </li>
+        <li>
+          <NuxtLink to="/web/new-cats">Котики</NuxtLink>
         </li>
         <li>
           <NuxtLink to="/web/prog">Программирование</NuxtLink>
